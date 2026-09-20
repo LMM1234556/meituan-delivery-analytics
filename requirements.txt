@@ -1,0 +1,12 @@
+pandas>=3.0,<3.1
+numpy>=2.4,<2.5
+pyarrow>=21,<23
+nbformat>=5.11,<6
+nbclient>=0.11,<0.12
+nbconvert>=7.17,<8
+ipykernel>=7.3,<8
+duckdb>=1.4,<1.5
+scikit-learn>=1.8,<1.9
+scipy>=1.17,<1.18
+matplotlib>=3.10,<3.11
+joblib>=1.5,<1.6
